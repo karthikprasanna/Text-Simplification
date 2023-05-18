@@ -1,6 +1,9 @@
 # **Overview**
 ![plot](./images/overview.png
 )
+
+# **Documentation:** https://github.com/karthikprasanna/Text-Simplification/blob/main/report.pdf
+
 # Candidate Generation 
 To get the candidates using dissim we need to use the "split.py" file which would generate candidates based on dissim's model. This would again be split as required data with <$> token separating two candidates which belong to the same word and <#> separates the canidates which belong to the different words. 
 
@@ -35,4 +38,3 @@ We have used the ACL2020 dataset which can be found in the link: https://iiitaph
 - The link of our primitive model with copy ratio: https://iiitaphyd-my.sharepoint.com/:f:/g/personal/prasanna_karthik_research_iiit_ac_in/EjSUoWyGVU1Dn6MFnYCxjOUBNFhObOzc_vl0k1GSUmpkpw?e=71bdEq
 
 - The link of our final model: https://iiitaphyd-my.sharepoint.com/:f:/g/personal/prasanna_karthik_research_iiit_ac_in/EhKJADOIXBNDnMX9DD8EtAsB1iIYI-utY6SS4QB3o0MNjQ?e=yiROaU
-# Text-Simplification
